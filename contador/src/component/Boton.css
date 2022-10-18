@@ -1,0 +1,25 @@
+button{
+    width: 200px;
+    height: 80px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:rgb(233, 233, 233);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    margin:5px;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: #00471b;
+}
+
+.btn-clic{
+    background-color: #002ead;
+
+
+}
+.btn-restart{
+    background-color: #5a01a7;
+}
